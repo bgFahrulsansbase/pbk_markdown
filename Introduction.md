@@ -8,10 +8,10 @@ undergone dramatic change. Once a matter for philosophical argument, the
 workings of the mind and the brain are now subject to powerful research
 tools. From that research, a science of learning is emerging._
 
-Pencarian untuk memahami pembelajaran manusia, dalam empat dekade terakhir, telah,
+__Pencarian untuk memahami pembelajaran manusia, dalam empat dekade terakhir, telah,
 mengalami perubahan dramatis. Sekali masalah untuk argumen filosofis,
 cara kerja pikiran dan otak sekarang menjadi sasaran penelitian yang kuat
-perkakas. Dari penelitian itu, muncul ilmu pembelajaran.
+perkakas. Dari penelitian itu, muncul ilmu pembelajaran.__
 
 _In 1995, the U.S. Department of Education’s Office of Educational Research
 and Improvement (OERI) requested that the National Research Council (NRC)
